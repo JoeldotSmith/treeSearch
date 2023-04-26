@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/joelsmith/IdeaProjects/CITS2200lab3/src/CITS2200.jar"
+    ],
+    "gitdoc.enabled": true
+}
